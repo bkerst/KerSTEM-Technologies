@@ -2,10 +2,11 @@
 
 ## Storage of the Future
 
-Most everyone who has lived in an apartment or small home has said to themselves,  "I need more kitchen storage." Our solution uses grossly underutilized vertical space to store and retrieve kitchenware at the push of a button. Simply select what dishes, silverware, or cookware you need, then our product finds everything you need and dispenses everything you need while you peruse your refrigerator for ingredients.
+Looking for a way to get more out of your garage or kitchen storage? Search no more, KerSTEM Technologies is here to provide the ultimate storage solution. We use underutilized vertical space along with a modern visual style to upgrade your home storage. Our algorithm finds the best places for your parts or kitchenware to be stored, all you have to do is place whatever you're ready to store in the machine, push a button, then watch in awe as our device smoothly stores your stuff. When you want something out, use verbal commands or search your inventory on the touch screen, then watch as our robotic arms gather everything you need while you prepare for all the extra time you save. 
 
 ## Why KerSTEM?
 
   * Optimized storage to increase kitchen storage  
   * Fast, friendly installation and repair services  
   * Easy-to-use 'vending machine' for the dishes and silverware you need
+  * Customizable styles to fit with any home decor
