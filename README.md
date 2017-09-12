@@ -6,7 +6,7 @@ Looking for a way to get more out of your garage or kitchen storage? Search no m
 
 ## Why KerSTEM?
 
-  * Optimized storage to increase kitchen storage  
+  * Optimized storage to increase kitchen or garage storage  
   * Fast, friendly installation and repair services  
-  * Easy-to-use 'vending machine' for the dishes and silverware you need
-  * Customizable styles to fit with any home decor
+  * Easy-to-use 'vending machine' for the tools or kitchenware you need
+  * Customizable styles to fit with any decor
